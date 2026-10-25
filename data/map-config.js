@@ -1,7 +1,7 @@
 window.MAP_CONFIG = {
   title: "战狗传说全国二次元活动分布图",
   subtitle: "省份按活动情况分类，扮演角色的城市单独标注",
-  footer: "2026年10月02日更新",
+  footer: "2026年10月26日更新",
   provinceRegions: [
     { name: "北京", color: "#FF0000", category: "扮演过角色的省份" },
     { name: "吉林", color: "#FF0000", category: "扮演过角色的省份" },
@@ -15,6 +15,7 @@ window.MAP_CONFIG = {
     { name: "四川", color: "#FFA500", category: "去过二次元商场的省份" },
     { name: "湖南", color: "#FFA500", category: "去过二次元商场的省份" },
     { name: "江西", color: "#FFA500", category: "去过二次元商场的省份" },
+    { name: "山西", color: "#FFA500", category: "去过二次元商场的省份" },
     { name: "辽宁", color: "#FFFF00", category: "抵达过的省份" },
     { name: "河北", color: "#FFFF00", category: "抵达过的省份" },
     { name: "江苏", color: "#FFFF00", category: "抵达过的省份" },
@@ -25,7 +26,6 @@ window.MAP_CONFIG = {
     { name: "香港", color: "#FFFF00", category: "抵达过的省份" },
     { name: "贵州", color: "#FFFF00", category: "抵达过的省份" },
     { name: "甘肃", color: "#FFFF00", category: "抵达过的省份" },
-    { name: "山西", color: "#87CEEB", category: "目标省份" },
     { name: "海南", color: "#87CEEB", category: "目标省份" },
     { name: "云南", color: "#87CEEB", category: "目标省份" },
     { name: "青海", color: "#87CEEB", category: "目标省份" },
